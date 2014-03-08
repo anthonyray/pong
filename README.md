@@ -1,12 +1,8 @@
-/*
-*	PONG
-*/
+### PONG
 
 This is the first game I developped thanks to the GreatCodeClub ! 
 
-/*
-*	How to browse the code
-*/
+### How to browse the code
 
 Here are the files you should take a look at, in logical order:
 
